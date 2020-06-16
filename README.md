@@ -1,2 +1,2 @@
 # Numerical-Analysis
-Numerical Analysis Projects on everything from Modeling the Heat and Wave Equation, to Cubic Spline Interpolation
+Numerical Analysis Projects Modeling the Heat Equation, to Cubic Spline Interpolation on Predator Pred Relationships.
