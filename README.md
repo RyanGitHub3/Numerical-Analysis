@@ -1,20 +1,23 @@
 # Numerical-Analysis
 
-This folder contains numerical analysis projects that cover a variety of topics including modeling the Heat Equation, Cubic Spline Interpolation on Predator Prey Relationships, and utililzing a Gaussian Process for curve fitting and to explore numerical integration. The folder will grow as I add more, but the main idea is to explore different numerical methods in a creative manner.
+<p align="center">
+  This repository contains numerical analysis projects that cover a variety of topics and is meant to explore both traditional as well as non-traditional numerical methods in a creative manner.
+</p>
 
 <p align="center">
   <img src="/images/Numerical_Analysis.png">
 </p>
 
-# New Title Here
-Test text here.
+## New Title Here
 
 <p align="center">
-  Centered Text test here.
+  Table of Contents
 </p>
 
-1. Washington
-2. Adams
+1. Testing the Gaussian Process for Numerical Integration
+2. Heat Equation Analysis in Two Dimensions 
+3. Heat Equation Analysis in Three Dimensions
+4. Cubic Spline Interpolation on Lotka-Volterra Predator Prey Model
 
 ```
 Code goes here
