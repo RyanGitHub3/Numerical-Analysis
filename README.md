@@ -4,3 +4,9 @@ This folder contains numerical analysis projects that cover a variety of topics 
 <p align="center">
   <img src="/images/Numerical_Analysis.png">
 </p>
+
+# New Title Here
+Test text here.
+<p align="center">
+  Centered Text test here.
+</p>
