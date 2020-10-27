@@ -3,4 +3,4 @@ This folder contains numerical analysis projects that cover a variety of topics 
 
 ![Numerical Analysis](/images/Numerical_Analysis.png?style=centerme)
 
-<center><img src="/images/Numerical_Analysis.png" align="center"></center>
+<center><img src="/images/Numerical_Analysis.png", align="center"></center>
