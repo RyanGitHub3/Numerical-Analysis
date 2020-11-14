@@ -28,6 +28,7 @@
 ## Summary
 
 **Analysis of the Heat Equation in the Unit Square using Peaceman Rachford ADI Method**
+
 - This project demonstrates how the Peaceman-Rachford ADI Method can be used to numerically solve differential equations. The common tool for solving second order ODEs is the Crank-Nicholson Method, however Peaceman-Rachford ADI can improve upon this by leveraging a Tri-Diagonal Matrix solver in order to increase computational speed while preserving accuracy.
 - The layout of the project is as follows.
   - Establish the equation that will be used as well as the conditions for the method
